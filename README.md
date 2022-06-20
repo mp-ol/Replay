@@ -36,4 +36,4 @@ Files that don't fit the pattern are skipped, as are files that don't have a tim
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
